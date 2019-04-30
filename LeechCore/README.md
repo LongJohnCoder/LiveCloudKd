@@ -15,7 +15,7 @@ you must see something like that:
 
 ![](./images/1.png)
 
-Next you can go to M: driver and use pypykatz plugin, f.e.
+Next you can go to M: drive and use pypykatz plugin, f.e.
 
 ![](./images/2.png)
 
